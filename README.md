@@ -14,8 +14,3 @@ A modern, responsive **AI Image Generator** web application built with **HTML, C
 - **Frontend:** HTML, CSS, JavaScript  
 - **Backend:** Node.js, Express.js  
 - **API:** ClipDrop Image Generation API  
-
-## Installation
-1. Clone the repository:
-   ```bash
-   git clone <your-repo-link>
